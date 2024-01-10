@@ -1,1 +1,1 @@
-# FileFolderTraverserDesktop
+# FileFolderTraverserDesktop application/project
