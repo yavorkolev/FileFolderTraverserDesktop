@@ -1,4 +1,4 @@
-# FileFolderTraverserDesktop java console application/project
+# FileFolderTraverserDesktop java console application/project development in PROGRESS!
 # Scanning/traversing files and folders by passed Command Line Arguments
 #  Argument-1 "File",(mandatory);
 #  Argument-2 "Threads",(optional);
